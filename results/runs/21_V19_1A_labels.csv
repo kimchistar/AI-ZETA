@@ -1,0 +1,133 @@
+label,phase,site,cy,cx,first_frame,last_frame,n_episodes,area,edge,evidence
+δ1,delta,32,421.1,470.3,1707,6706,1,953.0,False,P0/P2 D3
+δ2,delta,33,434.8,305.8,1753,6706,1,382.0,False,P0/P2 D3
+δ3,delta,34,401.0,380.8,1769,6706,4,285.0,False,P0/P2 D3;R-δ-covanish: vanishes with the δ at the onset R-δ-grow (merged into δ site 34)
+δ4,delta,35,581.7,429.3,1816,6702,1,89.0,False,P0/P2
+δ5,delta,36,490.9,598.2,1901,6706,1,248.0,False,P0/P2 D3
+δ6,delta,37,563.2,458.8,1951,6706,1,554.0,False,P0/P2 D3
+δ7,delta,41,543.5,275.4,2652,6706,1,318.0,False,P0/P2
+δ8,delta,44,482.1,588.2,3450,6705,1,100.0,False,R-δ-covanish: vanishes with the δ at the onset
+δ9,delta,49,432.1,341.1,3844,6706,1,165.0,False,P0/P2
+δ10,delta,50,429.4,426.7,3864,6706,1,538.0,False,P0/P2 D3
+δ11,delta,54,428.0,457.1,3913,6704,1,23.0,False,R-δ-covanish: vanishes with the δ at the onset
+δ12,delta,62,427.9,447.3,3925,4979,1,74.0,False,P0/P2
+δ13,delta,61,391.6,408.2,3971,6701,1,40.0,False,P0/P2
+δ14,delta,80,399.9,453.9,3997,6702,1,27.0,False,P0/P2 D3
+δ15,delta,82,378.9,454.9,4066,6701,1,39.0,False,R-δ-covanish: vanishes with the δ at the onset
+δ16,delta,83,401.4,278.3,4092,4133,1,24.0,False,P0/P2
+δ17,delta,84,480.8,269.4,4119,6702,1,43.0,False,R-δ-covanish: vanishes with the δ at the onset
+δ18,delta,90,382.9,237.3,4175,6701,1,26.0,False,P0/P2
+δ19,delta,91,363.8,455.9,4206,6701,1,44.0,False,R-δ-covanish: vanishes with the δ at the onset D3
+δ20,delta,92,417.3,408.3,4232,6702,1,36.0,False,R-δ-covanish: vanishes with the δ at the onset
+δ21,delta,93,411.5,281.8,4286,6706,1,40.0,False,P0/P2 D3
+δ22,delta,96,431.1,285.4,4345,6702,1,31.0,False,P0/P2 D3
+δ23,delta,97,384.5,369.5,4384,6701,1,32.0,False,R-δ-covanish: vanishes with the δ at the onset D3
+δ24,delta,94,493.9,446.4,4477,6702,1,27.0,False,R-δ-covanish: vanishes with the δ at the onset
+δ25,delta,95,459.2,614.4,4565,6706,1,25.0,False,P0/P2 D3
+δ26,delta,51,615.1,335.1,6038,6706,1,94.0,False,R-δ-covanish: vanishes with the δ at the onset
+γ1,gamma,104,491.3,646.0,6702,7299,1,196.0,False,A3
+γ2,gamma,105,506.2,342.8,6702,7299,1,346.0,False,A3
+γ3,gamma,107,243.0,545.4,6702,7299,1,876.0,False,+start-back A3
+γ4,gamma,108,613.7,389.2,6702,7299,1,47.0,False,A3
+γ5,gamma,110,658.4,497.2,6702,7143,2,98.0,True,+start-back A3;A3
+γ6,gamma,112,546.0,320.6,6702,6868,1,285.0,False,A3
+γ7,gamma,113,494.5,461.5,6702,7299,1,523.0,False,A3
+γ8,gamma,114,499.1,479.7,6702,7299,1,186.0,False,A3
+γ9,gamma,115,528.3,417.5,6702,6739,1,240.0,False,A3
+γ10,gamma,116,579.6,534.3,6702,6927,1,207.0,False,A3
+γ11,gamma,117,451.8,355.9,6702,6782,1,106.0,False,+start-back A3
+γ12,gamma,119,381.4,419.3,6702,7015,1,142.0,False,+start-back A3
+γ13,gamma,120,618.7,541.1,6702,6748,1,178.0,False,+start-back A3
+γ14,gamma,123,349.7,455.3,6702,6783,1,48.0,False,+start-back A3
+γ15,gamma,124,253.2,555.2,6702,7299,1,201.0,False,+start-back A3
+γ16,gamma,125,374.6,232.3,6702,7074,1,107.0,False,+start-back A3
+γ17,gamma,132,587.2,273.7,6702,7299,1,261.0,False,+start-back A3
+γ18,gamma,131,260.9,299.7,6702,7299,1,193.0,False,+start-back A3
+γ19,gamma,136,496.9,489.7,6702,7299,1,170.0,False,+start-back A3
+γ20,gamma,140,627.2,375.5,6702,7299,1,264.0,False,A3
+γ21,gamma,151,508.6,425.7,6702,7299,1,1329.0,False,A3
+γ22,gamma,194,505.2,453.4,6702,7299,1,69.0,False,R-γ-late-detected: brighter than before the γ onset +start-back
+γ23,gamma,173,477.0,460.8,6702,7299,1,178.0,False,R-γ-late-detected: brighter than before the γ onset
+γ24,gamma,159,655.2,378.3,6702,7299,1,332.0,False,R-γ-late-detected: brighter than before the γ onset
+γ25,gamma,198,634.7,454.5,6702,7299,1,90.0,False,R-γ-late-detected: brighter than before the γ onset +start-back
+γ26,gamma,63,469.5,422.5,6702,7299,2,178.0,False,+start-back A3
+γ27,gamma,900000,239.4,458.9,6702,7222,1,101.0,False,R-SD-diff: γ on a sapphire
+γ28,gamma,172,607.4,306.8,6703,7299,1,749.0,False,R-γ-late-detected: brighter than before the γ onset +start-back
+γ29,gamma,900001,536.1,576.2,6706,7486,1,89.0,False,R-SD-diff: γ on a sapphire
+γ30,gamma,127,577.2,406.9,6706,6739,1,38.0,False,+start-back A3
+γ31,gamma,138,309.3,507.9,6707,7299,1,362.0,False,+start-back A3
+γ32,gamma,79,401.4,443.4,6707,7299,1,67.0,False,A3
+γ33,gamma,171,290.3,672.5,6708,7299,1,112.0,False,+start-back A3
+γ34,gamma,128,614.8,453.4,6709,7299,1,507.0,False,A3
+γ35,gamma,143,414.2,346.4,6712,6756,1,36.0,False,+start-back A3
+γ36,gamma,175,677.5,417.4,6713,7299,1,36.0,True,+start-back A3
+γ37,gamma,181,478.9,477.7,6713,6991,1,60.0,False,+start-back A3
+γ38,gamma,158,519.6,271.3,6716,7299,1,117.0,False,+start-back A3
+γ39,gamma,135,186.9,404.3,6717,7299,1,201.0,False,+start-back A3
+γ40,gamma,152,657.6,420.8,6718,7299,1,252.0,False,+start-back A3
+γ41,gamma,164,269.6,571.7,6718,7299,1,337.0,False,+start-back A3
+γ42,gamma,134,607.8,425.6,6722,7299,1,68.0,False,+start-back A3
+γ43,gamma,137,188.3,350.5,6724,7038,1,48.0,False,+start-back A3
+γ44,gamma,144,360.8,539.5,6728,7081,1,55.0,False,+start-back A3
+γ45,gamma,147,369.2,539.6,6729,7081,1,205.0,False,+start-back A3
+γ46,gamma,155,351.0,165.4,6730,6942,1,51.0,False,+start-back A3
+γ47,gamma,160,413.4,330.8,6731,7299,1,29.0,False,+start-back A3
+γ48,gamma,191,600.0,454.5,6735,7131,1,68.0,False,+start-back A3
+γ49,gamma,157,290.4,420.8,6736,7299,1,98.0,False,+start-back A3
+γ50,gamma,153,170.4,324.8,6739,7299,1,108.0,False,+start-back A3
+γ51,gamma,146,329.4,443.2,6743,6878,1,236.0,False,+start-back A3
+γ52,gamma,168,459.5,210.5,6746,7299,1,366.0,False,R-γ-late-detected: brighter than before the γ onset +start-back
+γ53,gamma,154,351.2,202.9,6747,7299,1,262.0,False,+start-back A3
+γ54,gamma,141,639.6,286.1,6748,7299,1,592.0,True,A3
+γ55,gamma,49,432.1,341.1,6776,7299,14,402.0,False,A3
+γ56,gamma,174,497.9,526.7,6787,7299,1,93.0,False,+start-back A3
+γ57,gamma,178,172.7,489.9,6849,7299,1,73.0,False,+start-back A3
+γ58,gamma,177,282.7,204.8,6863,7299,1,127.0,False,+start-back A3
+γ59,gamma,185,353.6,624.6,6962,7299,1,42.0,False,+start-back A3
+γ60,gamma,188,415.8,317.8,6999,7299,1,39.0,False,+start-back A3
+S1,sapphire,11,488.0,180.2,0,7299,1,2463.0,False,R-SAP-1
+S2,sapphire,13,197.3,245.4,0,7299,1,1000.0,False,R-SAP-1
+S3,sapphire,15,269.1,458.6,0,7299,1,3301.0,False,R-SAP-1
+S4,sapphire,4,349.4,282.8,0,7299,1,3236.0,False,R-SAP-1
+S5,sapphire,5,518.3,591.9,0,7299,1,1408.0,False,R-SAP-1
+S6,sapphire,7,116.9,376.9,0,7299,1,1229.0,False,R-SAP-1
+S7,sapphire,23,553.0,349.9,1,7299,2,905.0,False,R-SAP-1;R-SAP-frag
+S8,sapphire,20,493.5,375.1,1,7299,1,1383.0,False,R-SAP-1
+S9,sapphire,21,436.1,634.5,1,7299,1,1932.0,False,R-SAP-1
+S10,sapphire,28,575.1,293.7,3,7299,2,800.0,False,R-SAP-1
+S11,sapphire,176,570.6,358.7,6905,7299,1,88.0,False,R-SAP-frag
+B1,static,14,650.4,521.7,0,7299,1,391.0,True,R-SAP-3
+B2,static,18,158.8,600.2,0,7299,1,240.0,True,R-BG2-persistent
+B3,static,8,143.8,268.2,0,7299,1,411.0,False,R-SAP-3
+B4,static,22,377.0,127.0,1,7299,1,114.0,False,R-BG2-persistent
+B5,static,29,543.6,196.4,83,7299,1,96.0,False,R-BG2-persistent
+B6,static,40,543.2,614.3,2515,7299,2,120.0,False,"R-BG-step: no brightness rise at appearance, flat"
+B7,static,47,638.1,365.6,3808,3820,1,66.0,False,flicker
+B8,static,51,615.1,335.1,3878,3900,1,24.0,False,R-DL-flat (no growth)
+B9,static,52,440.3,595.5,3884,3899,1,28.0,False,flicker
+B10,static,53,624.4,334.5,3899,3909,1,28.0,False,flicker
+B11,static,64,428.0,443.0,3925,6702,1,36.0,False,R-DL-flat (no growth)
+B12,static,61,391.6,408.2,3925,3950,1,35.0,False,"R-BG-step: no brightness rise at appearance, flat"
+B13,static,151,508.6,425.7,3927,3938,1,48.0,False,R-DL-flat (no growth)
+B14,static,75,413.9,431.0,3960,3970,1,38.0,False,flicker
+B15,static,76,400.8,436.9,3967,3997,1,39.0,False,flicker
+B16,static,78,412.6,311.5,3979,4013,1,69.0,False,flicker
+B17,static,79,401.4,443.4,3989,4021,1,36.0,False,flicker
+B18,static,89,499.1,448.8,4162,4355,1,25.0,False,"R-BG-step: no brightness rise at appearance, flat"
+B19,static,95,459.2,614.4,4358,4383,1,26.0,False,"R-BG-step: no brightness rise at appearance, flat"
+B20,static,103,407.0,343.7,6502,6701,1,33.0,False,"R-BG-step: no brightness rise at appearance, flat"
+B21,static,109,592.0,404.1,6702,7299,1,216.0,False,"R-BG-step: no brightness rise at appearance, flat"
+B22,static,141,639.6,286.1,6735,6740,1,57.0,False,"R-BG-step: no brightness rise at appearance, flat"
+B23,static,142,506.2,257.5,6736,6808,1,88.0,False,"R-BG-step: no brightness rise at appearance, flat"
+B24,static,163,321.9,442.7,6775,6878,1,137.0,False,"R-BG-step: no brightness rise at appearance, flat"
+B25,static,166,291.5,580.3,6799,7299,1,1859.0,False,R-BG-diffuse-site
+B26,static,149,413.6,518.2,6808,7239,1,508.0,False,"R-BG-step: no brightness rise at appearance, flat"
+B27,static,182,251.7,608.7,6926,7299,1,143.0,False,"R-BG-step: no brightness rise at appearance, flat"
+B28,static,184,327.2,631.0,6972,7299,1,55.0,False,"R-BG-step: no brightness rise at appearance, flat"
+B29,static,187,197.6,292.4,7013,7299,1,100.0,False,"R-BG-step: no brightness rise at appearance, flat"
+B30,static,189,461.9,666.9,7019,7299,1,55.0,False,"R-BG-step: no brightness rise at appearance, flat"
+B31,static,179,605.4,551.6,7050,7299,1,63.0,False,"R-BG-step: no brightness rise at appearance, flat"
+B32,static,195,311.5,438.4,7223,7299,1,31.0,False,"R-BG-step: no brightness rise at appearance, flat"
+B33,static,196,653.2,461.8,7235,7299,1,56.0,False,"R-BG-step: no brightness rise at appearance, flat"
+B34,static,49,432.1,341.1,7241,7254,1,401.0,False,"R-BG-step: no brightness rise at appearance, flat"
+B35,static,197,523.8,453.7,7266,7299,1,47.0,False,"R-BG-step: no brightness rise at appearance, flat"

@@ -1,0 +1,40 @@
+label,phase,site,cy,cx,first_frame,last_frame,n_episodes,area,edge,evidence
+δ1,delta,13,635.1,441.8,341,1663,1,589.0,False,P0/P2 D3
+δ2,delta,14,486.9,438.2,372,1567,1,287.0,False,P0/P2
+γ1,gamma,22,557.8,332.2,1243,1854,1,46.0,False,A3
+γ2,gamma,23,607.9,537.6,1244,1854,1,64.0,False,A3
+γ3,gamma,26,613.7,374.2,1248,1854,1,112.0,False,R-γ-late-detected: brighter than before the γ onset +start-back
+γ4,gamma,27,551.2,358.1,1250,1854,1,79.0,False,+start-back A3
+γ5,gamma,28,505.9,340.2,1251,1854,1,49.0,False,+start-back A3
+γ6,gamma,29,613.5,496.8,1253,1854,1,26.0,False,+start-back A3
+γ7,gamma,40,599.7,515.6,1267,1854,1,60.0,False,R-γ-late-detected: brighter than before the γ onset +start-back
+γ8,gamma,61,456.6,489.8,1825,1854,1,25.0,False,+start-back A3
+S1,sapphire,0,380.6,383.0,0,1854,1,807.0,True,R-SAP-1
+S2,sapphire,1,451.0,326.8,0,1854,1,1153.0,True,R-SAP-1
+S3,sapphire,5,506.3,458.2,0,1854,1,597.0,False,R-SAP-1
+S4,sapphire,3,501.3,568.6,0,1854,1,1175.0,False,R-SAP-1
+S5,sapphire,6,375.3,474.6,0,1854,1,1246.0,False,R-SAP-1
+S6,sapphire,8,531.4,519.8,1,1854,1,1386.0,False,R-SAP-1
+S7,sapphire,9,638.0,470.3,1,1854,1,641.0,True,R-SAP-1
+S8,sapphire,10,631.6,429.6,53,355,1,259.0,False,R-SAP-liquid
+S9,sapphire,11,439.5,526.8,128,1854,1,63.0,False,R-SAP-liquid
+B1,static,21,496.3,318.0,1242,1854,1,19.0,False,"R-BG-step: no brightness rise at appearance, flat"
+B2,static,31,550.8,496.8,1259,1854,1,94.0,False,"R-BG-step: no brightness rise at appearance, flat"
+B3,static,32,571.1,557.1,1270,1854,1,46.0,False,"R-BG-step: no brightness rise at appearance, flat"
+B4,static,24,402.9,528.3,1271,1854,1,32.0,False,"R-BG-step: no brightness rise at appearance, flat"
+B5,static,33,499.5,326.8,1293,1854,1,273.0,False,"R-BG-step: no brightness rise at appearance, flat"
+B6,static,35,560.6,515.1,1300,1854,1,75.0,False,"R-BG-step: no brightness rise at appearance, flat"
+B7,static,37,541.2,479.2,1317,1854,1,416.0,False,"R-BG-step: no brightness rise at appearance, flat"
+B8,static,38,425.9,415.7,1349,1404,1,31.0,False,"R-BG-step: no brightness rise at appearance, flat"
+B9,static,39,640.3,416.1,1410,1854,1,107.0,True,"R-BG-step: no brightness rise at appearance, flat"
+B10,static,43,565.0,548.0,1413,1854,1,26.0,False,"R-BG-step: no brightness rise at appearance, flat"
+B11,static,47,409.4,426.9,1478,1854,1,98.0,False,"R-BG-step: no brightness rise at appearance, flat"
+B12,static,49,610.1,508.3,1492,1854,1,51.0,False,"R-BG-step: no brightness rise at appearance, flat"
+B13,static,48,536.3,317.7,1508,1854,1,27.0,False,"R-BG-step: no brightness rise at appearance, flat"
+B14,static,53,579.1,546.4,1628,1854,1,24.0,False,"R-BG-step: no brightness rise at appearance, flat"
+B15,static,58,484.9,334.9,1676,1854,1,32.0,False,"R-BG-step: no brightness rise at appearance, flat"
+B16,static,45,588.5,527.0,1682,1854,1,183.0,False,"R-BG-step: no brightness rise at appearance, flat"
+B17,static,34,592.7,545.5,1705,1854,1,76.0,False,"R-BG-step: no brightness rise at appearance, flat"
+B18,static,52,373.3,431.4,1724,1854,1,20.0,False,"R-BG-step: no brightness rise at appearance, flat"
+B19,static,56,494.5,517.4,1828,1854,1,20.0,False,"R-BG-step: no brightness rise at appearance, flat"
+B20,static,46,569.2,332.6,1834,1854,1,52.0,False,"R-BG-step: no brightness rise at appearance, flat"

@@ -1,0 +1,142 @@
+{
+ "2_TRIP1": [
+  {
+   "label": "no γ",
+   "frame": 170,
+   "note": "liquid, no pattern"
+  },
+  {
+   "label": "δ appear",
+   "frame": 341,
+   "note": "δ1-δ2: 2 new δ in 3 s, first at (635,442)"
+  },
+  {
+   "label": "γ appear",
+   "frame": 1257,
+   "note": "first new spot #1243, 5 new in 10 s"
+  },
+  {
+   "label": "δ disappear",
+   "frame": 1854,
+   "note": "still present at window end (Case 4)"
+  }
+ ],
+ "8_TRIP2": [
+  {
+   "label": "no γ",
+   "frame": 938,
+   "note": "liquid, no pattern"
+  },
+  {
+   "label": "δ appear",
+   "frame": 1877,
+   "note": "δ1 at (426,445)"
+  },
+  {
+   "label": "δ disappear",
+   "frame": 4005,
+   "note": "-0.1 s after γ appear"
+  },
+  {
+   "label": "γ appear",
+   "frame": 4006,
+   "note": "first new spot #4005, 35 new in 10 s"
+  }
+ ],
+ "31_A003": [
+  {
+   "label": "no γ",
+   "frame": 618,
+   "note": "liquid, no pattern"
+  },
+  {
+   "label": "δ appear",
+   "frame": 1235,
+   "note": "δ1-δ2: 2 new δ in 4 s, first at (447,484)"
+  },
+  {
+   "label": "δ appear",
+   "frame": 1425,
+   "note": "δ3 at (606,468)"
+  },
+  {
+   "label": "γ appear",
+   "frame": 2052,
+   "note": "first new spot #2051, 9 new in 10 s"
+  },
+  {
+   "label": "δ disappear",
+   "frame": 2191,
+   "note": "+13.9 s after γ appear"
+  }
+ ],
+ "26_V19_5A": [
+  {
+   "label": "no γ",
+   "frame": 2001,
+   "note": "liquid, no pattern"
+  },
+  {
+   "label": "δ appear",
+   "frame": 2102,
+   "note": "δ1-δ2: 2 new δ in 4 s, first at (486,414)"
+  },
+  {
+   "label": "δ appear",
+   "frame": 2391,
+   "note": "δ3 at (638,376)"
+  },
+  {
+   "label": "γ appear",
+   "frame": 2813,
+   "note": "first new spot #2804, 32 new in 10 s"
+  },
+  {
+   "label": "δ disappear",
+   "frame": 2905,
+   "note": "+4.6 s after γ appear"
+  }
+ ],
+ "21_V19_1A": [
+  {
+   "label": "no γ",
+   "frame": 853,
+   "note": "liquid, no pattern"
+  },
+  {
+   "label": "δ appear",
+   "frame": 1707,
+   "note": "δ1-δ6: 6 new δ in 12 s, first at (421,470)"
+  },
+  {
+   "label": "δ appear",
+   "frame": 2652,
+   "note": "δ7 at (544,275)"
+  },
+  {
+   "label": "δ appear",
+   "frame": 3450,
+   "note": "δ8 at (482,588)"
+  },
+  {
+   "label": "δ appear",
+   "frame": 3844,
+   "note": "δ9-δ24: 16 new δ in 36 s, first at (432,341)"
+  },
+  {
+   "label": "δ appear",
+   "frame": 6038,
+   "note": "δ25 at (615,335)"
+  },
+  {
+   "label": "γ appear",
+   "frame": 6702,
+   "note": "23 new in 10 s"
+  },
+  {
+   "label": "δ disappear",
+   "frame": 7299,
+   "note": "still present at window end (Case 4)"
+  }
+ ]
+}

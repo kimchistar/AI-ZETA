@@ -1,0 +1,67 @@
+label,phase,site,cy,cx,first_frame,last_frame,n_episodes,area,edge,evidence
+δ1,delta,16,426.2,444.9,1877,4005,1,77.0,False,P0/P2 D3
+γ1,gamma,19,507.3,530.3,4005,4259,2,96.0,False,+start-back A3;A3
+γ2,gamma,20,546.6,447.0,4005,4259,2,214.0,False,A3;A3
+γ3,gamma,21,453.8,539.5,4005,4259,2,375.0,False,A3;R-γ-late-detected: brighter than before the γ onset +start-back
+γ4,gamma,29,393.7,460.7,4005,4259,1,78.0,False,+start-back A3
+γ5,gamma,34,515.0,541.5,4005,4259,1,128.0,False,+start-back A3
+γ6,gamma,36,514.5,361.9,4005,4259,1,27.0,False,+start-back A3
+γ7,gamma,37,431.2,514.5,4005,4186,1,221.0,False,+start-back A3
+γ8,gamma,42,587.7,449.2,4005,4067,1,44.0,False,+start-back A3
+γ9,gamma,49,541.8,416.1,4005,4259,1,324.0,False,+start-back A3
+γ10,gamma,900000,546.3,474.2,4005,4145,1,663.0,False,R-SD-diff: γ on a sapphire
+γ11,gamma,28,467.0,464.0,4006,4259,1,150.0,False,A3
+γ12,gamma,27,543.0,555.1,4006,4034,1,31.0,False,A3
+γ13,gamma,32,505.3,585.9,4006,4158,1,105.0,False,+start-back A3
+γ14,gamma,31,454.1,484.8,4006,4110,1,94.0,False,+start-back A3
+γ15,gamma,26,624.9,470.4,4006,4259,1,140.0,False,A3
+γ16,gamma,24,570.1,350.5,4006,4066,1,100.0,True,A3
+γ17,gamma,35,483.1,459.1,4006,4161,1,52.0,False,+start-back A3
+γ18,gamma,30,498.3,610.0,4006,4187,1,176.0,True,+start-back A3
+γ19,gamma,40,580.0,443.1,4006,4027,1,33.0,False,+start-back A3
+γ20,gamma,38,488.4,573.1,4006,4104,1,38.0,False,+start-back A3
+γ21,gamma,47,430.5,505.8,4006,4155,1,40.0,False,+start-back A3
+γ22,gamma,46,587.8,413.9,4006,4064,1,27.0,False,+start-back A3
+γ23,gamma,54,474.6,412.4,4006,4042,1,86.0,False,+start-back A3
+γ24,gamma,39,554.8,453.4,4006,4092,1,55.0,False,+start-back A3
+γ25,gamma,67,568.5,368.1,4006,4259,1,58.0,False,+start-back A3
+γ26,gamma,900001,530.0,453.3,4006,4036,1,154.0,False,R-SD-diff: γ on a sapphire
+γ27,gamma,71,528.3,333.2,4006,4259,1,23.0,True,+start-back A3
+γ28,gamma,18,551.3,514.9,4006,4259,1,252.0,False,A3
+γ29,gamma,50,525.9,435.0,4007,4135,1,58.0,False,+start-back A3
+γ30,gamma,62,386.9,539.8,4008,4259,1,131.0,False,+start-back A3
+γ31,gamma,41,609.9,485.5,4010,4259,1,136.0,False,A3
+γ32,gamma,900002,504.1,384.5,4011,4091,1,74.0,False,R-SD-diff: γ on a sapphire
+γ33,gamma,64,367.7,550.1,4014,4259,1,73.0,True,+start-back A3
+γ34,gamma,44,461.1,377.5,4015,4259,1,175.0,False,A3
+γ35,gamma,48,458.0,365.5,4019,4259,1,162.0,False,A3
+γ36,gamma,60,455.2,454.6,4023,4259,1,93.0,False,+start-back A3
+γ37,gamma,56,422.1,473.4,4025,4173,1,25.0,False,A3
+γ38,gamma,58,376.5,481.2,4029,4065,1,48.0,False,A3
+γ39,gamma,57,512.1,406.1,4099,4259,1,22.0,False,A3
+S1,sapphire,1,514.8,480.3,0,4259,1,1859.0,False,R-SAP-1
+S2,sapphire,3,531.0,395.8,0,4259,1,1437.0,False,R-SAP-1
+S3,sapphire,5,367.3,428.9,0,4259,1,1312.0,True,R-SAP-1
+S4,sapphire,4,558.3,379.1,1,13,1,60.0,False,R-SAP-start
+S5,sapphire,6,621.1,508.2,1,4259,1,684.0,True,R-SAP-1
+S6,sapphire,9,505.4,384.8,31,47,1,22.0,False,R-SAP-liquid
+S7,sapphire,10,528.4,454.6,60,4039,1,18.0,False,R-SAP-liquid
+B1,static,7,476.7,430.0,17,4259,1,44.0,False,R-BG2-persistent
+B2,static,18,551.3,514.9,2406,3220,1,15.0,False,"R-BG-step: no brightness rise at appearance, flat"
+B3,static,8,625.4,461.6,3805,4259,2,285.0,False,"R-BG-step: no brightness rise at appearance, flat"
+B4,static,23,507.2,507.4,4006,4051,1,42.0,False,"R-BG-step: no brightness rise at appearance, flat"
+B5,static,9,505.4,384.8,4006,4092,1,48.0,False,
+B6,static,45,386.1,568.1,4015,4190,1,135.0,True,"R-BG-step: no brightness rise at appearance, flat"
+B7,static,53,587.0,564.4,4022,4077,1,52.0,False,"R-BG-step: no brightness rise at appearance, flat"
+B8,static,55,431.8,353.1,4025,4056,1,46.0,False,"R-BG-step: no brightness rise at appearance, flat"
+B9,static,59,357.3,499.0,4029,4163,1,130.0,True,"R-BG-step: no brightness rise at appearance, flat"
+B10,static,70,476.2,603.3,4060,4092,1,51.0,False,"R-BG-step: no brightness rise at appearance, flat"
+B11,static,51,537.5,453.2,4062,4247,1,56.0,False,"R-BG-step: no brightness rise at appearance, flat"
+B12,static,17,610.1,415.3,4067,4259,1,96.0,False,"R-BG-step: no brightness rise at appearance, flat"
+B13,static,22,478.4,522.5,4079,4137,1,69.0,False,"R-BG-step: no brightness rise at appearance, flat"
+B14,static,73,415.2,520.4,4095,4174,1,42.0,False,"R-BG-step: no brightness rise at appearance, flat"
+B15,static,16,426.2,444.9,4097,4259,1,38.0,False,"R-BG-step: no brightness rise at appearance, flat"
+B16,static,75,402.1,530.0,4124,4259,1,68.0,False,"R-BG-step: no brightness rise at appearance, flat"
+B17,static,78,460.1,339.8,4159,4259,1,38.0,False,"R-BG-step: no brightness rise at appearance, flat"
+B18,static,79,435.7,433.9,4170,4259,1,29.0,False,"R-BG-step: no brightness rise at appearance, flat"
+B19,static,82,483.2,533.5,4200,4259,1,26.0,False,"R-BG-step: no brightness rise at appearance, flat"

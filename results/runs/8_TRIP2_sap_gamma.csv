@@ -1,0 +1,4 @@
+case,label_hint,cy,cx,first_frame,last_frame,area,Dmean,n_seen
+8_TRIP2,γ on S1,546.3,474.2,4005,4145,663,67.7,11
+8_TRIP2,γ on S1/S7,530.0,453.3,4006,4036,154,6.1,20
+8_TRIP2,γ on S6,504.1,384.5,4011,4091,74,6.3,6

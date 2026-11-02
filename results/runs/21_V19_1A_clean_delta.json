@@ -1,0 +1,185 @@
+{
+ "case": "21_V19_1A",
+ "window": [
+  6660,
+  6800
+ ],
+ "img": 6698,
+ "criteria": "peak ≥ 5 % of max, pre-std ≤ 0.05, |post mean| ≤ 0.1",
+ "clean": [
+  "δ1",
+  "δ2",
+  "δ3",
+  "δ6"
+ ],
+ "table": [
+  {
+   "label": "δ1",
+   "peak_rel": 1.0,
+   "pre_std": 0.002,
+   "post_mean": 0.005,
+   "clean": true
+  },
+  {
+   "label": "δ10",
+   "peak_rel": 0.037,
+   "pre_std": 0.006,
+   "post_mean": 0.001,
+   "clean": false
+  },
+  {
+   "label": "δ11",
+   "peak_rel": 0.004,
+   "pre_std": 0.01,
+   "post_mean": 0.005,
+   "clean": false
+  },
+  {
+   "label": "δ13",
+   "peak_rel": 0.002,
+   "pre_std": 0.039,
+   "post_mean": -0.068,
+   "clean": false
+  },
+  {
+   "label": "δ14",
+   "peak_rel": 0.001,
+   "pre_std": 0.023,
+   "post_mean": -0.007,
+   "clean": false
+  },
+  {
+   "label": "δ15",
+   "peak_rel": 0.001,
+   "pre_std": 0.038,
+   "post_mean": 0.021,
+   "clean": false
+  },
+  {
+   "label": "δ17",
+   "peak_rel": 0.002,
+   "pre_std": 0.013,
+   "post_mean": -0.003,
+   "clean": false
+  },
+  {
+   "label": "δ18",
+   "peak_rel": 0.001,
+   "pre_std": 0.055,
+   "post_mean": -0.078,
+   "clean": false
+  },
+  {
+   "label": "δ19",
+   "peak_rel": 0.001,
+   "pre_std": 0.047,
+   "post_mean": -0.026,
+   "clean": false
+  },
+  {
+   "label": "δ2",
+   "peak_rel": 0.118,
+   "pre_std": 0.003,
+   "post_mean": -0.024,
+   "clean": true
+  },
+  {
+   "label": "δ20",
+   "peak_rel": 0.001,
+   "pre_std": 0.037,
+   "post_mean": 0.247,
+   "clean": false
+  },
+  {
+   "label": "δ21",
+   "peak_rel": 0.003,
+   "pre_std": 0.021,
+   "post_mean": 0.106,
+   "clean": false
+  },
+  {
+   "label": "δ22",
+   "peak_rel": 0.001,
+   "pre_std": 0.022,
+   "post_mean": -0.002,
+   "clean": false
+  },
+  {
+   "label": "δ23",
+   "peak_rel": 0.002,
+   "pre_std": 0.033,
+   "post_mean": -0.002,
+   "clean": false
+  },
+  {
+   "label": "δ24",
+   "peak_rel": 0.001,
+   "pre_std": 0.042,
+   "post_mean": -0.037,
+   "clean": false
+  },
+  {
+   "label": "δ25",
+   "peak_rel": 0.0,
+   "pre_std": 0.094,
+   "post_mean": 0.04,
+   "clean": false
+  },
+  {
+   "label": "δ26",
+   "peak_rel": 0.004,
+   "pre_std": 0.125,
+   "post_mean": -1.705,
+   "clean": false
+  },
+  {
+   "label": "δ3",
+   "peak_rel": 0.467,
+   "pre_std": 0.001,
+   "post_mean": 0.008,
+   "clean": true
+  },
+  {
+   "label": "δ4",
+   "peak_rel": 0.0,
+   "pre_std": 0.159,
+   "post_mean": -0.226,
+   "clean": false
+  },
+  {
+   "label": "δ5",
+   "peak_rel": 0.043,
+   "pre_std": 0.007,
+   "post_mean": 0.0,
+   "clean": false
+  },
+  {
+   "label": "δ6",
+   "peak_rel": 0.055,
+   "pre_std": 0.005,
+   "post_mean": 0.032,
+   "clean": true
+  },
+  {
+   "label": "δ7",
+   "peak_rel": 0.01,
+   "pre_std": 0.116,
+   "post_mean": -4.795,
+   "clean": false
+  },
+  {
+   "label": "δ8",
+   "peak_rel": 0.006,
+   "pre_std": 0.014,
+   "post_mean": 0.144,
+   "clean": false
+  },
+  {
+   "label": "δ9",
+   "peak_rel": 0.004,
+   "pre_std": 0.014,
+   "post_mean": 0.068,
+   "clean": false
+  }
+ ]
+}

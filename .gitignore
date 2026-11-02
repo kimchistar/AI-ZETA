@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+data/laue/
+data/temperature/
+fig/
+rk_cache/

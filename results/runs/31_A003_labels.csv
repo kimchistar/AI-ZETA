@@ -1,0 +1,33 @@
+label,phase,site,cy,cx,first_frame,last_frame,n_episodes,area,edge,evidence
+δ1,delta,13,447.1,483.8,1235,2053,1,619.0,False,P0/P2 D3
+δ2,delta,14,397.1,487.2,1279,2052,1,190.0,False,P0/P2 D3
+δ3,delta,15,606.0,467.6,1425,2052,1,14.0,False,R-δ-covanish: vanishes with the δ at the onset
+γ1,gamma,20,461.0,366.2,2051,2687,1,547.0,False,A3
+γ2,gamma,21,447.0,553.1,2052,2687,1,954.0,False,A3
+γ3,gamma,23,472.4,476.8,2052,2093,1,44.0,False,A3
+γ4,gamma,24,460.2,323.3,2052,2137,1,78.0,True,A3
+γ5,gamma,25,545.1,553.5,2052,2687,1,217.0,False,A3
+γ6,gamma,26,583.5,497.5,2052,2200,1,176.0,False,A3
+γ7,gamma,27,486.1,569.8,2052,2687,1,50.0,False,A3
+γ8,gamma,28,530.8,374.6,2052,2687,1,1393.0,False,R-γ-crowd-diffuse: appears with the γ crowd +start-back
+γ9,gamma,29,386.8,457.9,2052,2687,1,386.0,False,+start-back A3
+γ10,gamma,31,444.3,568.8,2052,2687,1,76.0,False,+start-back A3
+γ11,gamma,36,474.6,608.9,2052,2687,1,85.0,True,+start-back A3
+γ12,gamma,900000,497.2,424.5,2052,2688,1,541.0,False,R-SD-diff: γ on a sapphire
+γ13,gamma,43,434.2,542.6,2052,2687,1,59.0,False,R-γ-late-detected: brighter than before the γ onset
+γ14,gamma,900001,497.1,326.7,2052,2688,1,90.0,False,R-SD-diff: γ on a sapphire
+γ15,gamma,30,516.8,497.7,2054,2099,1,28.0,False,A3
+γ16,gamma,38,524.1,471.7,2218,2687,1,159.0,False,A3
+γ17,gamma,40,538.0,472.0,2251,2687,1,438.0,False,R-γ-late-detected: brighter than before the γ onset +start-back
+S1,sapphire,0,463.1,436.2,1,2687,1,1459.0,False,R-SAP-1
+S2,sapphire,1,329.3,507.8,1,2687,1,214.0,True,R-SAP-start
+S3,sapphire,2,542.1,521.6,1,2687,1,964.0,False,R-SAP-1
+S4,sapphire,3,495.5,333.5,1,2687,1,617.0,True,R-SAP-1
+S5,sapphire,5,477.8,330.6,119,865,8,32.0,True,R-SAP-liquid
+B1,static,4,594.3,520.9,32,2687,1,747.0,True,R-BG2-persistent
+B2,static,22,578.6,460.1,2052,2107,1,66.0,False,"R-BG-step: no brightness rise at appearance, flat"
+B3,static,7,578.2,416.5,2068,2687,1,84.0,False,"R-BG-step: no brightness rise at appearance, flat"
+B4,static,34,453.5,475.6,2068,2182,1,306.0,False,"R-BG-step: no brightness rise at appearance, flat"
+B5,static,39,338.5,454.6,2275,2687,1,54.0,False,"R-BG-step: no brightness rise at appearance, flat"
+B6,static,6,596.9,461.4,2376,2687,1,84.0,False,"R-BG-step: no brightness rise at appearance, flat"
+B7,static,41,604.2,437.9,2534,2687,1,21.0,True,"R-BG-step: no brightness rise at appearance, flat"

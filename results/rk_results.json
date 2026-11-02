@@ -1,0 +1,570 @@
+{
+ "2_TRIP1": {
+  "site_full": {
+   "summary": {
+    "therm_onset": null,
+    "delta_decay_s": 41.299999952316284,
+    "onset_frame": 1257,
+    "burst": "slow",
+    "n_burst": 5,
+    "case": 2,
+    "rule": "P4",
+    "case_tags": [
+     2,
+     4
+    ],
+    "history": 2,
+    "transition": 4,
+    "gamma_first_frame": 1243,
+    "onset_censored": false,
+    "window_start": "liquid",
+    "n_delta": 2,
+    "n_gamma": 8,
+    "n_sapphire": 9,
+    "n_static": 20,
+    "delta_times": [
+     {
+      "id": "delta1",
+      "ignite": 341,
+      "peak": 1240,
+      "extinguish": 1854,
+      "confidence": "high"
+     },
+     {
+      "id": "delta2",
+      "ignite": 372,
+      "peak": 958,
+      "extinguish": 1567,
+      "confidence": "medium"
+     }
+    ],
+    "thermal_mode": "slow",
+    "recalescence_dT": 0.0,
+    "recalescence_frame": null,
+    "recalescence_peak_frame": null,
+    "T_onset": 1370.6,
+    "cooling_arrest": 0.62,
+    "massive_stage2": [],
+    "thermal_nearest_frame": 1252,
+    "thermal_offset_s": 0.9000000953674316
+   },
+   "kin": {
+    "delta": [
+     20.48131673362339,
+     1.9248822856251908,
+     0.017762272729417737
+    ],
+    "gamma": [
+     1.32329543648779,
+     0.3171442800283043,
+     0.0690260675970689
+    ]
+   }
+  },
+  "_thermal": {
+   "synced": true,
+   "events": [
+    654,
+    738,
+    854,
+    884,
+    1252,
+    1276,
+    1342,
+    1362,
+    1460,
+    1466,
+    1662,
+    1846
+   ],
+   "reason": "ok"
+  }
+ },
+ "8_TRIP2": {
+  "site_full": {
+   "summary": {
+    "therm_onset": null,
+    "delta_decay_s": 0.9000000953674316,
+    "onset_frame": 4006,
+    "burst": "fast",
+    "n_burst": 35,
+    "case": 1,
+    "rule": "P1",
+    "case_tags": [
+     1
+    ],
+    "history": 1,
+    "transition": 1,
+    "gamma_first_frame": 4005,
+    "onset_censored": false,
+    "window_start": "liquid",
+    "n_delta": 1,
+    "n_gamma": 42,
+    "n_sapphire": 7,
+    "n_static": 18,
+    "delta_times": [
+     {
+      "id": "delta1",
+      "ignite": 1877,
+      "peak": 3972,
+      "extinguish": 4005,
+      "confidence": "high"
+     }
+    ],
+    "thermal_mode": "fast",
+    "recalescence_dT": 7.7,
+    "recalescence_frame": 4006,
+    "recalescence_peak_frame": 4015,
+    "T_onset": 1363.4,
+    "cooling_arrest": -2.93,
+    "massive_stage2": [],
+    "thermal_nearest_frame": 4009,
+    "thermal_offset_s": 0.40400004386901855
+   },
+   "kin": {
+    "delta": [
+     0.16350579864823123,
+     0.2000000000000482,
+     0.11587938609285364
+    ],
+    "gamma": [
+     0.07990316700599896,
+     0.37674817726645565,
+     0.026093247178448176
+    ]
+   }
+  },
+  "_thermal": {
+   "synced": true,
+   "events": [
+    3249,
+    3595,
+    3637,
+    4009
+   ],
+   "reason": "ok"
+  }
+ },
+ "31_A003": {
+  "site_full": {
+   "summary": {
+    "therm_onset": null,
+    "delta_decay_s": 0.10000014305114746,
+    "onset_frame": 2052,
+    "burst": "fast",
+    "n_burst": 9,
+    "case": 2,
+    "rule": "P1",
+    "case_tags": [
+     2,
+     1
+    ],
+    "history": 2,
+    "transition": 1,
+    "gamma_first_frame": 2051,
+    "onset_censored": false,
+    "window_start": "liquid",
+    "n_delta": 3,
+    "n_gamma": 15,
+    "n_sapphire": 12,
+    "n_static": 7,
+    "delta_times": [
+     {
+      "id": "delta1",
+      "ignite": 1235,
+      "peak": 2046,
+      "extinguish": 2191,
+      "confidence": "high"
+     },
+     {
+      "id": "delta2",
+      "ignite": 1279,
+      "peak": 2046,
+      "extinguish": 2052,
+      "confidence": "high"
+     },
+     {
+      "id": "delta3",
+      "ignite": 1425,
+      "peak": 1453,
+      "extinguish": 2052,
+      "confidence": "medium"
+     }
+    ],
+    "thermal_mode": "fast",
+    "recalescence_dT": 3.02,
+    "recalescence_frame": 2051,
+    "recalescence_peak_frame": 2055,
+    "T_onset": 1340.8,
+    "cooling_arrest": 0.56,
+    "massive_stage2": [],
+    "thermal_nearest_frame": 2053,
+    "thermal_offset_s": 0.19900012016296387
+   },
+   "kin": {
+    "delta": [
+     0.0010000000000000002,
+     0.2114598496167309,
+     0.012269391135136856
+    ],
+    "gamma": [
+     2.8681646915868764,
+     0.5354781739906181,
+     0.028942010380399622
+    ]
+   }
+  },
+  "_thermal": {
+   "synced": true,
+   "events": [
+    1131,
+    2053,
+    2067
+   ],
+   "reason": "ok"
+  }
+ },
+ "26_V19_5A": {
+  "site_full": {
+   "summary": {
+    "therm_onset": null,
+    "delta_decay_s": 5.700000047683716,
+    "onset_frame": 2813,
+    "burst": "fast",
+    "n_burst": 32,
+    "case": 2,
+    "rule": "P4",
+    "case_tags": [
+     2,
+     4
+    ],
+    "history": 2,
+    "transition": 4,
+    "gamma_first_frame": 2804,
+    "onset_censored": false,
+    "window_start": "liquid",
+    "n_delta": 3,
+    "n_gamma": 46,
+    "n_sapphire": 10,
+    "n_static": 16,
+    "delta_times": [
+     {
+      "id": "delta1",
+      "ignite": 2102,
+      "peak": 2759,
+      "extinguish": 2863,
+      "confidence": "high"
+     },
+     {
+      "id": "delta2",
+      "ignite": 2180,
+      "peak": 2759,
+      "extinguish": 2905,
+      "confidence": "high"
+     },
+     {
+      "id": "delta3",
+      "ignite": 2391,
+      "peak": 2760,
+      "extinguish": 2832,
+      "confidence": "high"
+     }
+    ],
+    "thermal_mode": "slow",
+    "recalescence_dT": 0.0,
+    "recalescence_frame": null,
+    "recalescence_peak_frame": null,
+    "T_onset": 1467.7,
+    "cooling_arrest": 0.78,
+    "massive_stage2": [],
+    "thermal_nearest_frame": 3167,
+    "thermal_offset_s": 18.149999856948853
+   },
+   "kin": {
+    "delta": [
+     0.6457183137316939,
+     0.36846302262202085,
+     0.0465623442311232
+    ],
+    "gamma": [
+     6.859352723194287,
+     0.9113867352333698,
+     0.09103691560995042
+    ]
+   }
+  },
+  "_thermal": {
+   "synced": true,
+   "events": [
+    3167,
+    3928
+   ],
+   "reason": "ok"
+  }
+ },
+ "21_V19_1A": {
+  "site_full": {
+   "summary": {
+    "therm_onset": {
+     "frame": 6703,
+     "rise": 7.11,
+     "crowd_was": 1901,
+     "n_crowd": 19,
+     "crowd_die": 15
+    },
+    "delta_decay_s": 0.25,
+    "onset_frame": 6702,
+    "burst": "fast",
+    "n_burst": 23,
+    "case": 2,
+    "rule": "P1",
+    "case_tags": [
+     2,
+     1
+    ],
+    "history": 2,
+    "transition": 1,
+    "gamma_first_frame": 6702,
+    "onset_censored": false,
+    "window_start": "liquid",
+    "n_delta": 29,
+    "n_gamma": 74,
+    "n_sapphire": 13,
+    "n_static": 36,
+    "delta_times": [
+     {
+      "id": "delta1",
+      "ignite": 1707,
+      "peak": 6694,
+      "extinguish": 6831,
+      "confidence": "high"
+     },
+     {
+      "id": "delta2",
+      "ignite": 1753,
+      "peak": 6695,
+      "extinguish": 6996,
+      "confidence": "high"
+     },
+     {
+      "id": "delta3",
+      "ignite": 1769,
+      "peak": 6683,
+      "extinguish": 6731,
+      "confidence": "high"
+     },
+     {
+      "id": "delta4",
+      "ignite": 1816,
+      "peak": 5772,
+      "extinguish": 6702,
+      "confidence": "medium"
+     },
+     {
+      "id": "delta5",
+      "ignite": 1901,
+      "peak": 4924,
+      "extinguish": 7299,
+      "confidence": "high"
+     },
+     {
+      "id": "delta6",
+      "ignite": 1951,
+      "peak": 6696,
+      "extinguish": 6711,
+      "confidence": "high"
+     },
+     {
+      "id": "delta7",
+      "ignite": 2652,
+      "peak": 6791,
+      "extinguish": 7299,
+      "confidence": "medium"
+     },
+     {
+      "id": "delta8",
+      "ignite": 3450,
+      "peak": 6492,
+      "extinguish": 6705,
+      "confidence": "medium"
+     },
+     {
+      "id": "delta9",
+      "ignite": 3844,
+      "peak": 3915,
+      "extinguish": 6769,
+      "confidence": "medium"
+     },
+     {
+      "id": "delta10",
+      "ignite": 3864,
+      "peak": 6685,
+      "extinguish": 6790,
+      "confidence": "high"
+     },
+     {
+      "id": "delta29",
+      "ignite": 6038,
+      "peak": 6783,
+      "extinguish": 6810,
+      "confidence": "medium"
+     },
+     {
+      "id": "delta11",
+      "ignite": 3913,
+      "peak": 6532,
+      "extinguish": 6704,
+      "confidence": "medium"
+     },
+     {
+      "id": "delta12",
+      "ignite": 3917,
+      "peak": 6695,
+      "extinguish": 6732,
+      "confidence": "medium"
+     },
+     {
+      "id": "delta14",
+      "ignite": 3971,
+      "peak": 4012,
+      "extinguish": 6701,
+      "confidence": "low"
+     },
+     {
+      "id": "delta13",
+      "ignite": 3925,
+      "peak": 3926,
+      "extinguish": 4979,
+      "confidence": "medium"
+     },
+     {
+      "id": "delta15",
+      "ignite": 3997,
+      "peak": 6271,
+      "extinguish": 6702,
+      "confidence": "high"
+     },
+     {
+      "id": "delta16",
+      "ignite": 4066,
+      "peak": 4434,
+      "extinguish": 6701,
+      "confidence": "medium"
+     },
+     {
+      "id": "delta17",
+      "ignite": 4092,
+      "peak": 4110,
+      "extinguish": 4133,
+      "confidence": "medium"
+     },
+     {
+      "id": "delta18",
+      "ignite": 4119,
+      "peak": 6240,
+      "extinguish": 6702,
+      "confidence": "medium"
+     },
+     {
+      "id": "delta19",
+      "ignite": 4133,
+      "peak": 4575,
+      "extinguish": 6725,
+      "confidence": "medium"
+     },
+     {
+      "id": "delta20",
+      "ignite": 4175,
+      "peak": 5090,
+      "extinguish": 6701,
+      "confidence": "medium"
+     },
+     {
+      "id": "delta21",
+      "ignite": 4206,
+      "peak": 6597,
+      "extinguish": 6701,
+      "confidence": "high"
+     },
+     {
+      "id": "delta22",
+      "ignite": 4232,
+      "peak": 6081,
+      "extinguish": 6702,
+      "confidence": "medium"
+     },
+     {
+      "id": "delta23",
+      "ignite": 4286,
+      "peak": 6587,
+      "extinguish": 6730,
+      "confidence": "high"
+     },
+     {
+      "id": "delta27",
+      "ignite": 4477,
+      "peak": 6860,
+      "extinguish": 6702,
+      "confidence": "medium"
+     },
+     {
+      "id": "delta28",
+      "ignite": 4565,
+      "peak": 6285,
+      "extinguish": 7299,
+      "confidence": "high"
+     },
+     {
+      "id": "delta24",
+      "ignite": 4345,
+      "peak": 5903,
+      "extinguish": 6702,
+      "confidence": "high"
+     },
+     {
+      "id": "delta25",
+      "ignite": 4384,
+      "peak": 6359,
+      "extinguish": 6701,
+      "confidence": "high"
+     },
+     {
+      "id": "delta26",
+      "ignite": 4451,
+      "peak": 5185,
+      "extinguish": 6705,
+      "confidence": "medium"
+     }
+    ],
+    "thermal_mode": "fast",
+    "recalescence_dT": 7.11,
+    "recalescence_frame": 6703,
+    "recalescence_peak_frame": 6717,
+    "T_onset": 1410.1,
+    "cooling_arrest": -1.92,
+    "massive_stage2": [],
+    "thermal_nearest_frame": 6709,
+    "thermal_offset_s": 0.34999990463256836
+   },
+   "kin": {
+    "delta": [
+     0.0022474641041503062,
+     0.2000000000000045,
+     0.020071481446279058
+    ],
+    "gamma": [
+     0.06797876783908362,
+     0.36535881513578844,
+     0.013652693624339575
+    ]
+   }
+  },
+  "_thermal": {
+   "synced": true,
+   "events": [
+    6709
+   ],
+   "reason": "ok"
+  }
+ }
+}
