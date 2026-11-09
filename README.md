@@ -12,6 +12,7 @@ AI-ZETA follows every reflection in a sequence of in situ Laue frames, labels ea
 | `scripts/make_videos.py` | Renders the detection videos |
 | `results/` | Results reported in the paper |
 | `videos/` | Detection videos of the five runs |
+| `figures/` | Figs. 3 and 4 of the paper for the other four runs |
 | `data/` | Detector masks of the five runs and the raw frames shown in the paper figures |
 
 ## Runs
