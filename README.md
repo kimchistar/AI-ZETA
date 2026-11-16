@@ -54,6 +54,22 @@ All modules are run from one working folder that holds `mask_<run>.npy`, `runs.j
 
 `results/` also holds `refine_timing.json` (t\*, δ phase fraction and Avrami fit), `table1_paper_delta.json` (Table 1), `delta_end.json` (δ disappearance), `rk_results.json`, `rk_events.json` and `runs.json` (analysis window of each run).
 
+`results/review/` holds, for each run:
+
+- `<run>_review.csv`: one row per reflection with its label, position, whether it was reviewed, the review verdict and the corrected phase, followed by one row per missed reflection
+- `<run>_label_map.png`: every label of `<run>_review.csv` drawn on the outline of its reflection, δ and non-specimen on the frame at t\* (left) and γ on the frame with the most γ reflections (right)
+
+## Label accuracy
+
+| Steel | Cooling rate (°C min⁻¹) | Detected reflections | Accuracy (%) | Precision (%) | Recall (%) | Detection recall (%) |
+|---|---|---|---|---|---|---|
+| TRIP T1 | 110 | 39 | 94.9 | 94.9 | 94.9 | 100.0 |
+| TRIP T2 | 30 | 66 | 97.0 | 97.0 | 94.1 | 97.1 |
+| ULC | 132 | 32 | 93.8 | 93.8 | 93.8 | 100.0 |
+| Steel C | 110 | 73 | 97.3 | 97.3 | 95.9 | 98.6 |
+| Steel C | 30 | 110 | 96.4 | 96.4 | 94.6 | 98.2 |
+| All | | 320 | 96.3 | 96.3 | 94.8 | 98.5 |
+
 ## Videos
 
 Each run has two videos. `<run>_overview.mp4` shows the whole run once per second, and `<run>_transformation.mp4` shows every frame from 3 s before the transformation to 2 s after the last δ disappears. Reflections are drawn with their SAM ellipse: red δ, blue γ, gray non-specimen. A δ that is not detected in a frame but has not yet disappeared is drawn as a dashed circle.
