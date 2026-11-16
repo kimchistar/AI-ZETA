@@ -4,6 +4,10 @@ Code and results for **"AI-ZETA: neuro-symbolic one-shot tracking of phase evolu
 
 AI-ZETA follows every reflection in a sequence of in situ Laue frames, labels each one as δ, γ or a non-specimen signal with domain-knowledge rules, and derives the δ → γ transformation start t\*, the δ phase fraction and the Avrami parameters t₀.₅ and n.
 
+![AI-ZETA labels on run 31_A003](figures/31_A003_tracking.gif)
+
+ULC, 132 °C min⁻¹. Red δ, blue γ, gray non-specimen.
+
 ## Repository contents
 
 | Folder | Contents |
@@ -12,7 +16,7 @@ AI-ZETA follows every reflection in a sequence of in situ Laue frames, labels ea
 | `scripts/make_videos.py` | Renders the detection videos |
 | `results/` | Results reported in the paper |
 | `videos/` | Detection videos of the five runs |
-| `figures/` | Figs. 3 and 4 of the paper for the other four runs |
+| `figures/` | Figs. 3 and 4 of the paper for the other four runs, and the animation above |
 | `data/` | Detector masks of the five runs and the raw frames shown in the paper figures |
 
 ## Runs
